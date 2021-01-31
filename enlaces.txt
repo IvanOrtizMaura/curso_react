@@ -1,8 +1,13 @@
-0 - Extensión Git para Visual Code:
-https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+Hola Miguel Angel
+
+Puedes ir haciendo el curso en esta branch:
 
 1 - Curso React 
 https://www.youtube.com/playlist?list=PLYSZyzpwBEWSe71-aLlq71B2LPZzTNO8a
+
+
+0 - Extensión Git para Visual Code:
+https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
 
 
 Para próximos repositorios: 
